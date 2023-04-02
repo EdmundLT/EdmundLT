@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edmundlt" alt="edmundlt" /></a> </p>
 
-- 🔭 I’m currently working on [Fake-Financial-Data API](http://ffd-api.click)
+- 🔭 I’m currently working on [Reciper]([http://ffd-api.click](https://github.com/EdmundLT/Reciper))
 
 - 🌱 I’m currently learning **.NET, Angular**
 
